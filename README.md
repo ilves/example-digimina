@@ -4,19 +4,19 @@
 
 *Mari is fictional. Her files show what a [digimina](https://github.com/ilves/digimina) looks like after the core interview and two areas. Nothing here is investment advice.*
 
-## Proovi kohe, ilma GitHubita: sinu 5 lauset
+## Proovi kohe, ilma GitHubita: sinu viis lauset
 
 Kirjuta telefoni märkmetesse:
 
 1. Sel kuul on mulle kõige tähtsam …
-2. Üks reegel, mida ma tahan hoida (raha, tervis või aeg): …
+2. Reegel, millest tahan kinni pidada (raha, tervis või aeg): …
 3. Minu pimeala on …
 4. Oma suurima positsiooni müün ma siis, kui …
 5. Räägi minuga nii: …
 
-Kleebi need oma AI-sse (ChatGPT, Claude või muu) ja küsi: **„Arvesta neid lauseid. Mida ma peaksin sel nädalal teisiti tegema?“**
+Kleebi need oma AI-sse (ChatGPT, Claude või muu) ja küsi: **„Võta neid lauseid arvesse. Mida peaksin sel nädalal teisiti tegema?“**
 
-Ära kirjuta summasid ega kontonumbreid. Protsendid ja reeglid piisavad.
+Summasid ega kontonumbreid pole vaja. Piisab protsentidest ja reeglitest.
 
 ## Proovi Mari failidega
 
@@ -31,7 +31,7 @@ Küsi sama esimest küsimust ka vestluses **ilma** nende failideta ja võrdle va
 
 ## Tee oma digimina
 
-Ava [github.com/ilves/digimina](https://github.com/ilves/digimina) → **Use this template** → privaatne koopia → ühenda oma AI-ga → ütle **„interview me“**.
+Ava [github.com/ilves/digimina](https://github.com/ilves/digimina) → **Use this template** → tee privaatne koopia → ühenda see oma AI-ga → ütle **„interview me“**.
 
 ## Failid
 
