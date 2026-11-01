@@ -1,0 +1,12 @@
+# Never commit private material
+private/*
+!private/README.md
+
+# Local tool settings
+.claude/settings.local.json
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+.obsidian/workspace*
