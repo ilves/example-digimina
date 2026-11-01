@@ -1,7 +1,7 @@
 ---
 area: investing
-status: empty
-last_updated:
+status: active
+last_updated: 2026-03-02
 review_every: 180d
 extra_files: [watchlist.md, theses/]
 ---
@@ -10,20 +10,23 @@ extra_files: [watchlist.md, theses/]
 
 ## What this money is for
 
-<!-- e.g. "Financial independence by 55", "Kids' education in 2038", "A cushion so I can change careers". -->
+Rahaline vabadus 55-aastaselt: võimalus töötada vähem või lõpetada, ilma et elatustase langeks.
 
 ## Horizon and when I'll need the money
 
-<!-- Years until you start withdrawing. Any money needed sooner? -->
+Umbes 20 aastat. Enne seda väljavõtteid plaanis pole. Hädaabifond on eraldi hoiusel.
 
 ## How much I put in
 
-<!-- Monthly or yearly contribution, and how stable it is. -->
+€500 kuus, automaatselt palgapäeval. Preemia läheb sisse kord aastas, kui see tuleb.
 
 ## How I'll know I'm on track
 
-<!-- 1–3 measures: savings rate, portfolio value milestone, % of target, sticking to my rules. -->
+- €500 kuus käib edasi ilma pausideta.
+- Pean oma reeglitest (vt `rules.md`) kinni vähemalt 9 korral 10-st.
+- Portfell jõuab 10 aasta vahe-eesmärgini, mis on mu tabelis (hoian privaatselt).
 
 ## Accounts and wrappers (no account numbers)
 
-<!-- e.g. investment account, pension pillars, company structure. Names and purpose only. -->
+- Investeerimiskonto pangas: kõik ETF-i ja aktsiaostud.
+- Pensionisambad: II ja III sammas, eraldi; siin veel kirjas pole.

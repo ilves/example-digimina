@@ -1,61 +1,56 @@
 ---
-status: empty
-last_updated:
+file: me
+status: active
+last_updated: 2026-10-20
 review_every: 180d
 ---
 
 # Me
 
-<!--
-Filled by the context-interview skill. Keep it under ~600 words:
-the AI reads this at the start of every conversation.
-Write in your own words. Short bullets are fine.
--->
-
 ## Snapshot
 
-- Call me:
-- Age / life stage:
-- Where I live:
-- Work:
-- Household:
+- Call me: Mari
+- Age / life stage: 34, kolmeaastane laps kodus, karjäär täies hoos
+- Where I live: Tallinn
+- Work: IT-projektijuht keskmise suurusega tarkvarafirmas
+- Household: elukaaslane Jaan ja tütar Liisa (3)
 
 ## What matters to me
 
-<!-- 3–5 things, in your own words. Not slogans: what you actually trade time and money for. -->
+- Aeg Liisaga, kuni ta on väike. Õhtud ja nädalavahetused on tema päralt.
+- Et 55-aastaselt ei peaks raha pärast muretsema. Vabadus hoogu maha võtta, mitte rikkus.
+- Teha asjad korraga korralikult ära, mitte parandada neid kolm korda.
+- Olla piisavalt terve, et väikelapsega sammu pidada.
 
 ## A normal week
 
-<!-- What a typical weekday and weekend look like. Where your time and energy go. -->
+Tööpäevadel ärkan 6:30, viin Liisa lasteaeda, kolm päeva olen kontoris ja kaks kodus. Liisa toon lasteaiast 17:00. Õhtud on pere jaoks; pärast 21:00 on mul tund iseendale, siis loen investeerimisuudiseid. Nädalavahetustel oleme perega õues. Jooksen kolm korda nädalas: kaks lühikest hommikujooksu tööpäeviti ja pikem jooks pühapäeval.
 
 ## How I want you to talk to me
 
-- Language:
-- Tone:
-- Length:
-- Push back on me when:
-- Never (AI habits that annoy me):
+- Language: eesti või inglise keel, selles, milles ma kirjutan
+- Tone: otse, sõbralikult, ilma tühja jututa
+- Length: alguses lühidalt, rohkem küsin ise
+- Push back on me when: ma hakkan oma reegleid rikkuma, kõlan millegi riskantse suhtes väga kindlalt või tahan võtta neljanda fookuse
+- Never: ära alusta „Suurepärane küsimus!“ ega mata vastust hoiatuste alla
 
 ## How I decide
 
-<!-- e.g. "I overthink small things and rush big ones. Give me a default and a deadline." -->
+Tööl olen struktureeritud: variandid, kriteeriumid, tähtaeg. Oma rahaga olen palju emotsionaalsem, kui tahaksin tunnistada. Elevil olles otsustan kiiresti, hirmul olles tardun.
 
 ## Blind spots to watch for
 
-<!-- Things you know you tend to get wrong. The AI will point them out when it sees them. -->
+- Nimetan end pikaajaliseks investoriks, aga kui turud liiguvad, vaatan hindu iga päev.
+- Mulle ei meeldi müüa võitjaid, isegi kui mu reeglid seda nõuavad.
+- Ütlen liiga kergelt jah, eriti sügisel tööl. Siis jääb jooksmine esimesena ära.
 
 ## Where my data lives
 
-<!--
-For each kind of data: kept in this repo, or read from an external tool.
-When a tool is connected, the AI reads it instead of asking you.
-Tool names and IDs only, never logins, tokens or account numbers.
--->
+Ülesanded ja numbrid on tööriistades, see repo hoiab konteksti.
 
-- Calendar:
-- Email:
-- Tasks / to-dos:
-- Investments:
-- Training / health:
-- Notes / documents:
-- Other:
+- Calendar: Google Calendar (minu oma ja pere kalender)
+- Email: Gmail
+- Tasks / to-dos: väike nimekiri `now.md` all, eraldi tööriista pole
+- Investments: Portfellow, kaalud ainult protsentides
+- Training / health: Strava (jooksud)
+- Notes / documents: see repo

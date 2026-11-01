@@ -1,7 +1,7 @@
 ---
 area: investing
-status: empty
-last_updated:
+status: active
+last_updated: 2026-03-02
 review_every: 180d
 ---
 
@@ -11,40 +11,42 @@ review_every: 180d
 
 | Bucket | Target % | Allowed range |
 |---|---|---|
-| | | |
+| Globaalne aktsia-ETF | 70 | 65–75 |
+| Üksikaktsiad | 30 | 25–35 |
 
 ## Position limits
 
-<!-- e.g. "No single stock above 8% of the portfolio." -->
+Ükski üksikaktsia ei ole üle **8%** portfellist.
 
 ## When I rebalance
 
-<!-- e.g. "Once a year in January, or when a bucket is 5 points off target." -->
+Igal jaanuaril ja alati, kui mõni aktsia läheb üle 8%.
 
 ## When I sell
 
-<!-- General rules. Each thesis in theses/ also has its own sell conditions. -->
+- Kui teesi „mis tõestaks, et eksin“ juhtub.
+- Kui aktsia läheb üle 8%: vähendan tagasi 6%-ni.
+- Mitte kunagi seetõttu, et turg langeb.
 
 ## What I don't buy
 
-<!-- e.g. leverage, things I can't explain in two sentences. -->
+Võimendus, optsioonid, krüpto ja kõik, mida ma ei oska Jaanile kahe lausega selgitada.
 
 ## My risk tolerance, honestly
 
-<!-- What you actually did (or would do) in a 30% drop. Behaviour, not intentions. -->
+Ütlen, et talun 30% langust. Tegelikult olen järskude languste ajal mitu korda paanikas müünud (vt `journal.md`).
 
 ## How AI should help here
 
 **Do:**
-- Check every idea against the rules in this file and say clearly when one is broken.
-- Play devil's advocate on my theses when I ask, and also when I sound overconfident.
-- Point out patterns in my journal (buying after rises, selling after drops).
-- Say when you don't know a number. Tell me to check prices and figures at the source.
+- Kontrolli iga ideed selle faili vastu ja ütle selgelt, kui ma reeglit rikun.
+- Ole kuradi advokaat, kui ma kõlan väga kindlalt.
+- Tuleta meelde, mida ma tegin eelmine kord, kui turg langes.
 
 **Don't:**
-- Give me buy or sell recommendations. Help me think; the decision is mine.
-- Agree with me just because I sound sure.
+- Ära ütle mulle, et osta või müü. Aita mul mõelda.
+- Ära nõustu minuga sellepärast, et olen elevil.
 
 ## Sensitivity
 
-Weights in %, not balances, unless I choose otherwise. Never account numbers or logins.
+Kaalud protsentides, mitte summad. Kontonumbreid ei salvesta.
